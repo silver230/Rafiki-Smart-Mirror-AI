@@ -1,8 +1,7 @@
 # AI-Smart-Mirror
 Smart Mirror with a smart AI 🤖
 
-Watch the video on how to make it here:
-https://youtu.be/ejnE6DM-hqU
+ 
 
 # Setup Guide
 
@@ -11,7 +10,7 @@ Download the stable version of Node.js:
 https://nodejs.org/en/
 
 Clone the latest MagicMirror code from:
-https://github.com/MichMich/MagicMirror
+https://github.com/silver230/Rafiki-Smart-Mirror-AI
 
 Navigate inside the MagicMirror folder
 ```shell
@@ -35,7 +34,7 @@ cd ..
  
 Clone this repository (AI Smart Mirror)
 ```shell
-git clone git@github.com:HackerHouseYT/AI-Smart-Mirror.git
+https://github.com/silver230/Rafiki-Smart-Mirror-AI
 ```
 
 Copy the folders in `AI-Smart-Mirror/magic_mirror` to `MagicMirror/modules`
