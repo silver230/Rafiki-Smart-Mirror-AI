@@ -79,7 +79,7 @@ singledispatch==3.4.0.3
 six==1.11.0
 SQLAlchemy==1.2.14
 urlgrabber==3.10.2
-urllib3==1.22
+urllib3==1.26.5
 virtualenv==16.1.0
 visitor==0.1.3
 Werkzeug==0.14.1
